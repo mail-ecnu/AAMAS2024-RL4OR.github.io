@@ -1,4 +1,4 @@
-# ACL 2023 Tutorial: Retrieval-based Language Models and Applications
+# AAMAS 2024 Tutorial: Reinforcement Learning for Operations Research: Unlocking New Possibilities
 
 The code is adapted from the [Nerfies website](https://nerfies.github.io).
 
