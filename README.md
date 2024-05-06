@@ -1,6 +1,6 @@
 # AAMAS 2024 Tutorial: Reinforcement Learning for Operations Research: Unlocking New Possibilities
 
-The code is adapted from the [Nerfies website](https://nerfies.github.io).
+The code is adapted from the [Nerfies website](https://nerfies.github.io) and the [retrieval-lm-tutorial website](https://acl2023-retrieval-lm.github.io/).
 
 
 ## Website License
